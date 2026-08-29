@@ -1,203 +1,244 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:00b4d8&height=200&section=header&text=Dylan%20Lesieur&fontSize=52&fontColor=e0f7ff&fontAlignY=42&desc=Systems%20%7C%20Low-Level%20%7C%2042%20School&descSize=18&descAlignY=65&descColor=7ec8e3&animation=fadeIn" width="100%"/>
-</div>
+🌌 Univers42
 
-<br/>
+A tech island for 42 builders.
+We learn by building, break things to understand them, and build them again better.
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=00B4D8&center=true&vCenter=true&random=false&width=560&lines=Rewriting+malloc+for+fun+%26+performance;If+it+leaks%2C+it+ships+without+me;Valgrind+green+or+it+doesn%27t+exist;42+School+%E2%80%94+no+teachers%2C+no+excuses" alt="Typing SVG"/>
-</div>
 
-<br/>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/dylan-lesieur-1218aa1b1/">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=00b4d8"/>
-  </a>
-  &nbsp;
-  <a href="https://puzzled-basil-cc8.notion.site/18352b5682188018accae57b55410ea8?v=18f52b56821880ffbb72000cea8f882f&pvs=4">
-    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=notion&logoColor=00b4d8"/>
-  </a>
-  &nbsp;
-  <a href="mailto:dylan.lesieur@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=00b4d8"/>
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=LESdylan&style=flat-square&color=00b4d8&label=profile+views"/>
-</div>
 
-<br/>
+🧭 What is Univers42?
 
----
+Univers42 is a shared engineering space for students of the 42 school network.
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-  </picture>
-</div>
+We use this organization to centralize the projects, experiments, tools, and knowledge we build throughout the 42 Common Core and beyond.
 
----
+No lectures.
+No predefined solutions.
+No hand-holding.
 
-## `whoami`
+Just projects, peer evaluation, debugging, research, and a lot of broken code that eventually works.
 
-```c
-/*
-** dylan.lesieur — 42 School
-** Focus: low-level C, systems programming, memory management
-*/
+The tools are the projects. The projects are the tools.
 
-typedef struct s_dev {
-    char    *name;
-    char    *school;
-    char    *focus;
-    char    *currently;
-    char    *philosophy;
-}   t_dev;
+🛠️ What We Build
 
-int main(void)
-{
-    t_dev me = {
-        .name       = "Dylan Lesieur",
-        .school     = "42 School",
-        .focus      = "Systems programming / Memory optimization",
-        .currently  = "ft_transcendence — full-stack capstone (NestJS + React)",
-        .philosophy = "If it passes Valgrind, you understood it."
-    };
+Our repositories follow the natural progression of the 42 journey — from understanding memory and processes at the lowest level to designing complete distributed applications.
 
-    return (0);
-}
-```
+⚙️ Systems & Low-Level
 
-I specialize in writing things from scratch: allocators, shells, renderers, sorting algorithms. The 42 model means no lectures, no teachers — you either understand the project or you fail the evaluation. That constraint shapes how I code.
+We start close to the machine.
 
----
+C — memory, pointers, processes, file descriptors and system calls
+Unix — signals, processes, pipes and file descriptors
+Concurrency — threads, mutexes and synchronization
+Memory management — custom allocators and mmap
+Graphics — rendering, projections and ray tracing
+Linux — system construction and administration
+🧠 Algorithms & Computer Science
 
-## Skills
+Projects where the solution matters as much as the code.
 
-<table align="center">
-<tr>
-<td valign="top" width="50%">
+Sorting algorithms
+Stack-based algorithms
+Inter-process communication
+Concurrency problems
+Parsing
+Data structures
+Binary formats
+Design patterns
+🐳 Infrastructure & DevOps
 
-**Systems & Low-Level**
-```
-C                    ████████████████████  core
-C++                  ███████████████░░░░░  modules 00→09
-Shell / Bash         ██████████████░░░░░░  scripting + sysadmin
-Make                 ████████████████░░░░  build systems
-```
+Because eventually the code needs somewhere to run.
 
-</td>
-<td valign="top" width="50%">
+Docker & Docker Compose
+NGINX
+MariaDB / PostgreSQL
+Linux administration
+Networking
+Security
+CI/CD
+Infrastructure automation
+🌐 Full-Stack & Beyond
 
-**Tools & Ecosystem**
-```
-Git                  ████████████████████  daily
-Docker               ████████████████░░░░  Inception + transcendence
-GDB / Valgrind       ███████████████░░░░░  debugging workflow
-Linux (Debian/LFS)   ████████████████░░░░  from scratch
-```
+The later projects move from individual components to complete systems.
 
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
+TypeScript
+React
+NestJS
+PostgreSQL
+Redis
+WebSockets
+OAuth
+REST APIs
+Containerized applications
+Distributed architecture
+⭐ Featured Projects
+Project	Description	Stack
+🌐 transcendence	Full-stack real-time web application	TypeScript · NestJS · React · PostgreSQL · Redis
+🧠 ft_malloc	Reimplementation of malloc, free and realloc	C · mmap
+🎮 minirt	Minimal ray-tracing engine	C
+🐚 mini_shell	Unix shell with pipes, redirections and built-ins	C
+🧵 philosopher	Dining philosophers and concurrency	C · Threads · Mutexes
+🐳 Inception
+	Containerized NGINX, WordPress and MariaDB infrastructure	Docker · Shell
+🐧 ft_linux	Linux system built from source	Shell · Linux
+🔐 born2root	Debian server setup and hardening	Linux · Shell
+🧰 Examen42	Solutions and preparation for 42 exams	C
+🧰 Tools We Build for Ourselves
 
-**Algorithms & Theory**
-```
-Memory management    ████████████████████  ft_malloc
-Sorting algorithms   ███████████████░░░░░  push_swap
-Concurrency          ██████████████░░░░░░  philosopher
-Rendering / Graphics ████████████░░░░░░░░  fdf, minirt
-```
+Sometimes the curriculum creates a problem.
 
-</td>
-<td valign="top" width="50%">
+Sometimes the solution is:
 
-**Web & Beyond**
-```
-TypeScript           █████████████░░░░░░░  transcendence
-NestJS               ████████████░░░░░░░░  backend API
-React / Vite         ████████████░░░░░░░░  frontend
-PostgreSQL + Redis   ██████████░░░░░░░░░░  data layer
-```
+"Fine. I'll build the tool myself."
 
-</td>
-</tr>
-</table>
+Univers42 also contains utilities created to make development, evaluation and debugging easier.
 
----
+🧪 Testing & evaluation tools
+🐛 Debugging utilities
+📝 Logging libraries
+🛡️ QA & security tooling
+🔧 Shell utilities
+🧩 C libraries
+📚 Design-pattern references
+⚡ Developer productivity tools
+📚 The 42 Philosophy
 
-## Projects
+42 is different.
 
-<div align="center">
+There are no teachers and no traditional lectures. Learning happens through projects, research, collaboration and peer evaluation.
 
-| Project | What it is | Stack |
-|---|---|---|
-| [**transcendence**](https://github.com/Univers42/transcendence) | Full-stack capstone — real-time web app, 5-person team | TypeScript · NestJS · React · Docker |
-| [**ft_malloc**](https://github.com/Univers42/ft_malloc) | `malloc`, `free`, `realloc` from scratch using `mmap` | C |
-| [**minirt**](https://github.com/Univers42/minirt) | Ray tracing engine — light, shadows, intersections | C |
-| [**mini_shell**](https://github.com/Univers42/mini_shell) | Shell with pipes, redirections, built-ins | C |
-| [**philosopher**](https://github.com/Univers42/philosopher) | Dining philosophers — threads, mutexes, no deadlocks | C |
-| [**Inception**](https://github.com/Univers42/Inception) | NGINX + WordPress + MariaDB in Docker, from scratch | Docker · Shell |
-| [**ft_linux**](https://github.com/Univers42/ft_linux) | Linux built from source following LFS | Shell |
-| [**Examen42**](https://github.com/Univers42/Examen42) | 42 exam rank 02–04 solutions | C |
-| [**mini-baas**](https://github.com/Univers42/mini-baas) | A mini Backend-as-a-Service, built outside curriculum | Make |
-| [**catch_error**](https://github.com/Univers42/catch_error) | Lightweight C error-handling framework, no overhead | C |
+That philosophy is reflected in the code here.
 
-</div>
+Every repository represents a problem we had to understand rather than simply memorize.
 
----
-## Stats
+Every bug was a lesson.
 
-<div align="center">
+Every segmentation fault was a research opportunity.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LESdylan&show_icons=true&theme=transparent&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=e0f7ff&ring_color=0a3d62&v=2)](https://github.com/LESdylan)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=LESdylan&theme=transparent&hide_border=true&stroke=0a3d62&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=e0f7ff&sideNums=e0f7ff&currStreakNum=e0f7ff&dates=7ec8e3&v=2)](https://github.com/LESdylan)
+Every successful evaluation meant:
 
-</div>
+We actually understood it.
 
-<br/>
+🗺️ The Journey
+                         UNIVERS42
+                             │
+              ┌──────────────┴──────────────┐
+              │                             │
+          LOW LEVEL                    HIGH LEVEL
+              │                             │
+              ▼                             ▼
+        ┌───────────┐                 ┌────────────┐
+        │     C     │                 │ TypeScript │
+        └─────┬─────┘                 └─────┬──────┘
+              │                             │
+        ┌─────▼─────┐                 ┌─────▼──────┐
+        │ Algorithms│                 │   React    │
+        └─────┬─────┘                 └─────┬──────┘
+              │                             │
+        ┌─────▼─────┐                 ┌─────▼──────┐
+        │ Processes │                 │   NestJS   │
+        │  Threads  │                 │ PostgreSQL │
+        └─────┬─────┘                 │   Redis    │
+              │                        └─────┬──────┘
+        ┌─────▼─────┐                       │
+        │   Linux   │                       │
+        │   Docker  │                       ▼
+        └─────┬─────┘                 ┌────────────┐
+              │                       │ Production │
+              ▼                       │  Systems   │
+        ┌───────────┐                 └────────────┘
+        │   Systems │
+        │ Engineering│
+        └───────────┘
 
-<div align="center">
+🤝 Built by Students
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LESdylan&layout=compact&theme=transparent&hide_border=true&title_color=00b4d8&text_color=e0f7ff&langs_count=6&v=2)](https://github.com/LESdylan)
+Univers42 is a collaborative space.
 
-</div>
+Projects may be individual, pair-based, or team-based. Some repositories are curriculum projects; others exist because someone wanted to explore an idea outside the curriculum.
 
-## Featured repos
+The goal is simple:
 
-<div align="center">
-  <a href="https://github.com/Univers42/transcendence">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Univers42&repo=transcendence&theme=transparent&hide_border=true&title_color=00b4d8&text_color=e0f7ff&icon_color=00b4d8&show_owner=true" height="120" alt="Transcendence" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Univers42/Examen42">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Univers42&repo=Examen42&theme=transparent&hide_border=true&title_color=00b4d8&text_color=e0f7ff&icon_color=00b4d8&show_owner=true" height="120" alt="Examen42" />
-  </a>
-</div>
+Learn → Build → Break → Understand → Improve
 
-<div align="center">
-  <a href="https://github.com/Univers42/philosopher">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Univers42&repo=philosopher&theme=transparent&hide_border=true&title_color=00b4d8&text_color=e0f7ff&icon_color=00b4d8&show_owner=true" height="120" alt="Philosophers" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Univers42/minirt">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Univers42&repo=minirt&theme=transparent&hide_border=true&title_color=00b4d8&text_color=e0f7ff&icon_color=00b4d8&show_owner=true" height="120" alt="miniRT" />
-  </a>
-</div>
+🚀 Beyond the Common Core
 
-<div align="center">
-  <sub>
-    <a href="https://www.linkedin.com/in/dylan-lesieur-1218aa1b1/">LinkedIn</a> ·
-    <a href="https://puzzled-basil-cc8.notion.site/18352b5682188018accae57b55410ea8?v=18f52b56821880ffbb72000cea8f882f&pvs=4">Portfolio</a> ·
-    <a href="mailto:dylan.lesieur@gmail.com">dylan.lesieur@gmail.com</a>
-  </sub>
-</div>
+The Common Core is only the beginning.
 
-<br/>
+Univers42 is also a place for experiments outside the curriculum:
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0a3d62,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
-</div>
+Production-oriented backend systems
+Infrastructure projects
+Developer tooling
+Security and QA
+Web applications
+Libraries
+Automation
+New technologies worth exploring
+
+The interesting projects are often the ones we build because we want to know how they work.
+
+📂 Explore the Repositories
+
+There is no single path through Univers42.
+
+Pick a project, open the code, and start exploring.
+
+C
+├── libft
+├── get_next_line
+├── push_swap
+├── minitalk
+├── philosopher
+├── mini_shell
+├── minirt
+└── ft_malloc
+
+SYSTEMS
+├── Inception
+├── born2root
+└── ft_linux
+
+C++
+├── picine_cpp
+└── libcpp
+
+TOOLS
+├── Examen42
+├── evals42
+├── log_debug
+├── catch_error
+├── minitalk_tester
+└── design-patterns
+
+FULL STACK
+├── transcendence
+├── mini-baas
+├── mini-baas-infra
+├── prismatica
+└── libcss
+
+💫 The Univers42 Mindset
+Don't just use it.
+        ↓
+Understand it.
+        ↓
+Build it.
+        ↓
+Break it.
+        ↓
+Fix it.
+        ↓
+Build it better.
+
+<p align="center">
+🌌 Welcome to Univers42.
+
+Where curiosity becomes code.
+
+<br>
+
+Made by 42 builders, for 42 builders.
+
+</p>
