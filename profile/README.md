@@ -24,7 +24,7 @@
 ## Contents
 
 - [What's in here](#whats-in-here)
-- [Featured projects](#featured-projects)
+- [Repos with 10+ stars](#repos-with-10-stars)
 - [Repository index](#repository-index)
 - [Tools we built for ourselves](#tools-we-built-for-ourselves)
 - [Contributing](#contributing)
@@ -52,11 +52,15 @@
 </tr>
 </table>
 
-## Featured projects
+## Repos with 10+ stars
 
-| Project | Description | Stack |
-|:---|:---|:---|
-| **transcendence** | Full-stack real-time web app | TypeScript · NestJS · React |
+Nothing below is hardcoded. [`update-readme-stars.mjs`](scripts/update-readme-stars.mjs) queries the GitHub API for every public repo in this org, keeps the ones with 10 or more stars, sorts them by star count, and rewrites the table between the markers below. [`update-readme.yml`](.github/workflows/update-readme.yml) runs it daily and on demand, and commits the result if it changed.
+
+<!-- STARRED_REPOS:START -->
+
+_Populates on the first workflow run — trigger it manually from the Actions tab, or wait for the daily schedule._
+
+<!-- STARRED_REPOS:END -->
 
 ## Repository index
 
