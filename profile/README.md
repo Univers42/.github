@@ -1,4 +1,4 @@
-# 🌌 Univers42
+[# 🌌 Univers42
 
 A shared workspace for 42 Madrid students — the curriculum projects, tools, and side experiments built across the Common Core and beyond.
 
@@ -113,3 +113,4 @@ Repos here are individual, pair, or team work. Some are curriculum-mandated; oth
 ---
 
 <p align="center">Built by 42 students, for 42 students.</p>
+](https://github.com/Univers42/.github)
