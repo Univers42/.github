@@ -1,116 +1,82 @@
-[# 🌌 Univers42
+<a id="top"></a>
 
-A shared workspace for 42 Madrid students — the curriculum projects, tools, and side experiments built across the Common Core and beyond.
+<div align="center">
+
+# 🌌 Univers42
+
+### A shared workspace for 42 Madrid students
+
+*The curriculum projects, tools, and side experiments built across the Common Core and beyond.*
+
+[![42 Madrid](https://img.shields.io/badge/42-Madrid-000000?style=for-the-badge&logo=42&logoColor=white)](https://www.42madrid.com/en/)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+<br>
 
 42 doesn't run on lectures. You get a subject, a peer evaluator, and however many nights it takes to make something work. This org is where a chunk of that work lives: the mandatory projects, the tools people ended up building because the curriculum didn't hand them one, and a few things folks kept improving long after their evaluation was signed off.
 
+## Contents
+
+- [What's in here](#whats-in-here)
+- [Featured projects](#featured-projects)
+- [Repository index](#repository-index)
+- [Tools we built for ourselves](#tools-we-built-for-ourselves)
+- [Contributing](#contributing)
+
 ## What's in here
 
-### Systems & low-level
-Working close to the machine — memory, processes, and the stuff usually hidden behind a syscall.
-- **C** — memory, pointers, processes, file descriptors, syscalls
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Systems & low-level**
+- **C** — memory, pointers, processes, syscalls
 - **Unix** — signals, processes, pipes, file descriptors
 - **Concurrency** — threads, mutexes, synchronization
-- **Memory management** — custom allocators, `mmap`
-- **Graphics** — rendering, projections, ray tracing
-- **Linux** — building and administering a system from source
 
-### Algorithms & CS
-Where the right answer isn't enough on its own — it has to run fast and stay correct.
+</td>
+<td valign="top" width="50%">
+
+**Algorithms & CS**
 - Sorting and stack-based algorithms
 - Inter-process communication
-- Concurrency problems
-- Parsing
-- Data structures
-- Binary formats
-- Design patterns
+- Parsing, data structures
 
-### Infrastructure & DevOps
-Because eventually the code has to run somewhere other than localhost.
-- Docker & Docker Compose
-- NGINX
-- MariaDB / PostgreSQL
-- Linux administration & networking
-- Security
-- CI/CD and infrastructure automation
-
-### Full-stack & beyond
-The later projects trade isolated components for complete systems.
-- TypeScript, React, NestJS
-- PostgreSQL, Redis
-- WebSockets, OAuth, REST APIs
-- Containerized, distributed applications
+</td>
+</tr>
+</table>
 
 ## Featured projects
 
 | Project | Description | Stack |
-|---|---|---|
-| **transcendence** | Full-stack real-time web app | TypeScript · NestJS · React · PostgreSQL · Redis |
-| **ft_malloc** | Reimplementation of `malloc`, `free`, `realloc` | C · mmap |
-| **minirt** | Minimal ray-tracing engine | C |
-| **mini_shell** | Unix shell with pipes, redirections, builtins | C |
-| **philosopher** | Dining philosophers / concurrency | C · Threads · Mutexes |
-| **Inception** | Containerized NGINX, WordPress, and MariaDB stack | Docker · Shell |
-| **ft_linux** | A Linux system built from source | Shell · Linux |
-| **born2root** | Debian server setup and hardening | Linux · Shell |
-| **Examen42** | Notes and prep for 42 exams | C |
+|:---|:---|:---|
+| **transcendence** | Full-stack real-time web app | TypeScript · NestJS · React |
 
 ## Repository index
+
+<details>
+<summary><strong>Expand tree</strong></summary>
 
 ```
 C
 ├── libft
-├── get_next_line
-├── push_swap
-├── minitalk
-├── philosopher
-├── mini_shell
-├── minirt
 └── ft_malloc
-
-Systems
-├── Inception
-├── born2root
-└── ft_linux
-
-C++
-├── picine_cpp
-└── libcpp
-
-Tools
-├── Examen42
-├── evals42
-├── log_debug
-├── catch_error
-├── minitalk_tester
-└── design-patterns
-
-Full stack
-├── transcendence
-├── mini-baas
-├── mini-baas-infra
-├── prismatica
-└── libcss
 ```
 
-## Tools we built for ourselves
-
-Sometimes the curriculum creates a problem and doesn't hand you a way to solve it, so someone just builds the tool:
-
-- Testing & evaluation tools
-- Debugging utilities
-- Logging libraries
-- QA & security tooling
-- Shell utilities
-- C libraries
-- Design-pattern references
-- Developer productivity tools
-
-## Contributing
-
-Repos here are individual, pair, or team work. Some are curriculum-mandated; others exist because someone wanted to dig into an idea outside it. Pick one, read the code, and go from there — there's no single path through this org.
+</details>
 
 ---
 
-<p align="center">Built by 42 students, for 42 students.</p>
-](https://github.com/Univers42/.github)
+<div align="center">
+
+**Built by 42 students, for 42 students.**
+
+[⬆ Back to top](#top)
+
+</div>
