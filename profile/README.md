@@ -16,11 +16,14 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
+<text>
 
-<br>
+We have built a community of more than 20 members and 50 followers around this organization. We believe the organization is now ready to take the next step by becoming an official league of 42. Our goal is to create a project- and tool-oriented community that supports students throughout their 42 journey and beyond.
 
-42 doesn't run on lectures. You get a subject, a peer evaluator, and however many nights it takes to make something work. This org is where a chunk of that work lives: the mandatory projects, the tools people ended up building because the curriculum didn't hand them one, and a few things folks kept improving long after their evaluation was signed off.
+Inspired by the project-driven mindset of engineers such as Linus Torvalds, we want to help members develop the skills and habits required to build strong, reliable, and sustainable software. The league will provide a space for people to initiate projects, collaborate with others, share tools and knowledge, and contribute to meaningful technical work.
 
+Ultimately, we want to promote a stronger culture of participation and contribution within the 42 community. By encouraging members to work on real projects, we aim to help them grow as engineers, develop entrepreneurial skills, and build solutions that can have a lasting impact.
+</text>
 ## Contents
 
 - [What's in here](#whats-in-here)
