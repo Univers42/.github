@@ -4,7 +4,7 @@
 
 # 🌌 Univers42
 
-### A shared workspace for 42 Madrid students
+### A shared workspace for 42 student
 
 *The curriculum projects, tools, and side experiments built across the Common Core and beyond.*
 
