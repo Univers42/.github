@@ -1,12 +1,34 @@
 <div align="center">
 
+# 🚀 JOIN THE UNIVERS42 COMMUNITY
+
+### Build real software. Meet your next collaborators. Grow as an engineer.
+
+**We're building ambitious software projects with developers from around the world. Come build with us!**
+
+<br>
+
+<a href="https://discord.gg/hGDRBpndNu"><img src="https://img.shields.io/badge/💬_JOIN_OUR_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the Univers42 Discord community"></a>
+
+<a href="https://chat.whatsapp.com/GRnacM2PVBk75UeaFkQ8ir"><img src="https://img.shields.io/badge/📱_JOIN_OUR_WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join the Univers42 WhatsApp community"></a>
+
+<a href="https://www.linkedin.com/groups/42835490/"><img src="https://img.shields.io/badge/💼_CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Univers42 on LinkedIn"></a>
+
+<br>
+
+**Your next project, collaborator or opportunity could start here.**
+
+</div>
+
+---
+
+<div align="center">
+
 # 🌌 Univers42
 
 ### An Independent Engineering Community
 
 **Build real software. Share knowledge. Grow together.**
-
-A community of developers, students and engineers building software beyond the boundaries of academic projects.
 
 [![42 Madrid](https://img.shields.io/badge/42-Madrid-000000?style=for-the-badge&logo=42&logoColor=white)](https://www.42madrid.com/en/)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Collaboration-success?style=for-the-badge)
@@ -16,41 +38,15 @@ A community of developers, students and engineers building software beyond the b
 
 ---
 
-## 🚀 Join the Univers42 Community
-
-**Looking for people to build something meaningful with? You're in the right place.**
-
-Join our community, meet fellow engineers, discover projects and start collaborating.
-
-Whether you're a student, an independent developer or an experienced engineer, there's a place for you here.
-
-<div align="center">
-
-[![Join our Discord](https://img.shields.io/badge/Join%20our%20community-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hGDRBpndNu)
-
-[![Join our WhatsApp](https://img.shields.io/badge/Join%20the%20conversation-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/GRnacM2PVBk75UeaFkQ8ir)
-
-[![Follow us on LinkedIn](https://img.shields.io/badge/Follow%20our%20journey-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/groups/42835490/)
-
-</div>
-
-💬 **Discord:** Meet the community, discuss ideas and join our voice meetings.
-
-📱 **WhatsApp:** Stay connected and receive community updates.
-
-💼 **LinkedIn:** Follow our journey, discover opportunities and connect with fellow engineers.
-
-**Your next project, collaborator or opportunity could start with a conversation.**
-
----
-
 ## 🌍 What is Univers42?
 
-Univers42 is an independent community where developers collaborate to build **real software, reusable tools and ambitious products.**
+Univers42 is an independent community of developers, students and engineers collaborating to build **real software, reusable tools and ambitious products.**
 
-We bring together people who want to go beyond completing academic exercises and experience what software engineering looks like in real collaborative environments.
+We go beyond academic exercises to experience what software engineering looks like in real collaborative environments.
 
-💡 Our philosophy is simple:
+Our goal is simple: create an ecosystem where people can build meaningful software, share knowledge, develop their engineering skills and connect with others who share their ambition.
+
+### 💡 Our Philosophy
 
 - Build things that solve problems.
 - Improve what already exists.
@@ -62,7 +58,7 @@ We bring together people who want to go beyond completing academic exercises and
 >
 > **Don't just learn how to complete projects. Learn how to build software that others can use, understand and improve.**
 
-## 🧠 Our Philosophy
+## 🧠 Our Philosophy on Engineering
 
 We are technology-agnostic and open-minded.
 
@@ -196,22 +192,16 @@ You don't need a perfect roadmap or an established product.
 
 **Bring your curiosity, your ideas and your willingness to build.**
 
-<div align="center">
-
 ---
+
+<div align="center">
 
 # 🌌 Build Beyond the Curriculum.
 
 ### Learn together. Build together. Grow together.
 
-**Ready to start building with us?**
-
-[![Join Univers42 on Discord](https://img.shields.io/badge/Join%20Univers42-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hGDRBpndNu)
-
-[![Join the WhatsApp Community](https://img.shields.io/badge/Join%20our%20WhatsApp%20Community-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/GRnacM2PVBk75UeaFkQ8ir)
-
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/groups/42835490/)
-
 **Welcome to Univers42! 🚀**
+
+<a href="https://discord.gg/hGDRBpndNu"><img src="https://img.shields.io/badge/START_BUILDING_WITH_US-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Start building with Univers42 on Discord"></a>
 
 </div>
