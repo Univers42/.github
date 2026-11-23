@@ -2,7 +2,7 @@
 
 # 🌌 Univers42
 
-### 🚀 An Independent Engineering Community
+### An Independent Engineering Community
 
 **Build real software. Share knowledge. Grow together.**
 
@@ -13,6 +13,34 @@ A community of developers, students and engineers building software beyond the b
 ![Engineering](https://img.shields.io/badge/Engineering-First-blue?style=for-the-badge)
 
 </div>
+
+---
+
+## 🚀 Join the Univers42 Community
+
+**Looking for people to build something meaningful with? You're in the right place.**
+
+Join our community, meet fellow engineers, discover projects and start collaborating.
+
+Whether you're a student, an independent developer or an experienced engineer, there's a place for you here.
+
+<div align="center">
+
+[![Join our Discord](https://img.shields.io/badge/Join%20our%20community-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hGDRBpndNu)
+
+[![Join our WhatsApp](https://img.shields.io/badge/Join%20the%20conversation-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/GRnacM2PVBk75UeaFkQ8ir)
+
+[![Follow us on LinkedIn](https://img.shields.io/badge/Follow%20our%20journey-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/groups/42835490/)
+
+</div>
+
+💬 **Discord:** Meet the community, discuss ideas and join our voice meetings.
+
+📱 **WhatsApp:** Stay connected and receive community updates.
+
+💼 **LinkedIn:** Follow our journey, discover opportunities and connect with fellow engineers.
+
+**Your next project, collaborator or opportunity could start with a conversation.**
 
 ---
 
@@ -168,13 +196,21 @@ You don't need a perfect roadmap or an established product.
 
 **Bring your curiosity, your ideas and your willingness to build.**
 
----
-
 <div align="center">
+
+---
 
 # 🌌 Build Beyond the Curriculum.
 
 ### Learn together. Build together. Grow together.
+
+**Ready to start building with us?**
+
+[![Join Univers42 on Discord](https://img.shields.io/badge/Join%20Univers42-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hGDRBpndNu)
+
+[![Join the WhatsApp Community](https://img.shields.io/badge/Join%20our%20WhatsApp%20Community-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/GRnacM2PVBk75UeaFkQ8ir)
+
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/groups/42835490/)
 
 **Welcome to Univers42! 🚀**
 
